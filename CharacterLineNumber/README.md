@@ -10,6 +10,6 @@ Algorithm :
 
 
 
-Answer Example - answer2.cpp
+Answer Example - answer3.cpp
 
 Note: Comment for any bugs to fix :)
