@@ -1,4 +1,4 @@
-# Project_CPP2
+# CompareLarger
 Level two - Create a program that displays the larger number of two integers
 
 Algorithm :
