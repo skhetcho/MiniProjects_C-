@@ -1,4 +1,4 @@
-# Project_CPP1
+# NofHoursUser
 Level one - Create a program that asks the user for their name and the number of hours they have worked in a day, then display their name and calculate the number of hours worked in a week
 
 Algorithm :
