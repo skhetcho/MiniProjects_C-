@@ -11,8 +11,6 @@ Algorithm :
 -	Finally it prints out a greeting with the name of the user inputted
 -	On a second line it states the first initials of the name inputted above
 -	On a third line it prints a statement about hoping that C++ is enjoyable with printing the number of hours worked per week which was calculated above
--	It prints an Ascii art spells CPSC
--	After that it states the name of the programmer and the course name and section
 -	If ran without debugging it asks for another user input to close the program
 
 Answer Example - answer1.cpp
